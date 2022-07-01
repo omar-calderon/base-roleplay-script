@@ -1,17 +1,11 @@
-/*  SA-MP Base Roleplay Script
- *
- *  Base Roleplay Script by Arthur Kane
- * http://forum.sa-mp.com/member.php?u=179165
- *
- *	Script begun: August 11th, 2017
- *  Last update: September 12th, 2017
- *  Release date: September 12th, 2017
- *	
- *	
- *	
- * 
- *
- */
+/*
+*  SA-MP Base Roleplay Script
+*  http://forum.sa-mp.com/member.php?u=179165
+*
+*  Script begun: August 11th, 2017
+*  Last update: September 12th, 2017
+*  Release date: September 12th, 2017
+*/
 
 #include <a_samp>
 #include <a_mysql>
